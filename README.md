@@ -1,4 +1,8 @@
 # Anomaly_Detection_Model_Bank
+
+https://www.kaggle.com/code/victorambonati/unsupervised-anomaly-detection
+
+
 links for various modeling techniques
 1.) K-means http://amid.fish/anomaly-detection-with-k-means-clustering
 2.) elliptic-enbelope :- https://towardsdatascience.com/machine-learning-for-anomaly-detection-elliptic-envelope-2c90528df0a6
